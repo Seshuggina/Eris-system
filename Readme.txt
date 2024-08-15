@@ -1,6 +1,3 @@
-Thanks for downloading this template!
-
 Template Name: Eris Systems
-Template URL: https://bootstrapmade.com/free-bootstrap-template-corporate-moderna/
-Author: BootstrapMade.com
+Author: Seshu Vuggina
 License: https://bootstrapmade.com/license/
